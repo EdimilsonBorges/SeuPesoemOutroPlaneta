@@ -1,0 +1,690 @@
+<resources>
+    <string name="app_name">Meu peso em outro planeta</string>
+    <string name="jupiter"> Júpiter </string>
+    <string name="lua"> Lua </string>
+    <string name="marte"> Marte </string>
+    <string name="mercurio"> Mercúrio </string>
+    <string name="netuno"> Netuno </string>
+    <string name="plutao"> Plutão </string>
+    <string name="saturno"> Saturno </string>
+    <string name="sol"> Sol </string>
+    <string name="urano"> Urano </string>
+    <string name="venus"> Vênus </string>
+    <string name="jupiter1"> Seu peso em Júpiter é de Aproximadamente: </string>
+    <string name="lua1"> Seu peso na Lua é de Aproximadamente: </string>
+    <string name="marte1"> Seu peso em Marte é de Aproximadamente: </string>
+    <string name="mercurio1"> Seu peso em Mercúrio é de Aproximadamente: </string>
+    <string name="netuno1"> Seu peso em Netuno é de Aproximadamente: </string>
+    <string name="plutao1"> Seu peso em Plutão é de Aproximadamente: </string>
+    <string name="saturno1"> Seu peso em Saturno é de Aproximadamente: </string>
+    <string name="sol1"> Seu Peso no Sol é de Aproximadamente: </string>
+    <string name="urano1"> Seu peso em Urano é de Aproximadamente: </string>
+    <string name="venus1">Seu peso em Vênus é de Aproximadamente:</string>
+    <string name="jupiter2"> A força gravitacional de Júpiter aplicada em seu corpo é de aproximadamente: </string>
+    <string name="lua2"> A força gravitacional da Lua aplicada em seu corpo é de aproximadamente: </string>
+    <string name="marte2"> A força gravitacional de Marte aplicada em seu corpo é de aproximadamente: </string>
+    <string name="mercurio2"> A força gravitacional de Mercúrio aplicada em seu corpo é de aproximadamente: </string>
+    <string name="netuno2"> A força gravitacional de Netuno aplicada em seu corpo é de aproximadamente: </string>
+    <string name="plutao2"> A força gravitacional de Plutão aplicada em seu corpo é de aproximadamente: </string>
+    <string name="saturno2"> A força gravitacional de Saturno aplicada em seu corpo é de aproximadamente: </string>
+    <string name="sol2"> A força gravitacional do Sol aplicada em seu corpo é de aproximadamente: </string>
+    <string name="urano2"> A força gravitacional de Urano aplicada em seu corpo é de aproximadamente: </string>
+    <string name="venus2"> A força gravitacional de Vênus aplicada em seu corpo é de aproximadamente: </string>
+    <string name="detalhes"><b> Mais Detalhes:</b></string>
+    <string name="setError"> Não pode ficar vazio </string>
+    <string name="kg">Kg</string>
+    <string name="newton">Newton</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="coloque_seu_peso_aqui">Digite seu peso em KG</string>
+    <string name="seu_peso_em_calisto_de_aproximadamente"> Seu peso em Calisto é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_calisto_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Calisto aplicada em seu corpo é de aproximadamente: </string>
+    <string name="ceres_planeta_an_o"> Ceres </string>
+    <string name="seu_peso_em_ceres_de_aproximadamente"> Seu peso em Ceres é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_ceres_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Ceres aplicada em seu corpo é de aproximadamente: </string>
+    <string name="dione_sat_lite_de_saturno"> Dione </string>
+    <string name="seu_peso_em_dione_de_aproximadamente"> Seu peso em Dione é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_dione_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Dione aplicada em seu corpo é de aproximadamente: </string>
+    <string name="enc_lado_sat_lite_de_saturno"> Encélado </string>
+    <string name="seu_peso_em_enc_lado_de_aproximadamente">Seu peso em Encélado é de aproximadamente:</string>
+    <string name="a_for_a_gravitacional_de_enc_lado_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Encélado aplicada em seu corpo é de aproximadamente: </string>
+    <string name="ris_planeta_an_o"> Éris </string>
+    <string name="a_for_a_gravitacional_de_ris_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Éris aplicada em seu corpo é de aproximadamente: </string>
+    <string name="europa_sat_lite_de_j_piter"> Europa </string>
+    <string name="seu_peso_em_europa_de_aproximadamente"> Seu peso em Europa é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_europa_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Europa aplicada em seu corpo é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_fobos_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Fobos aplicada em seu corpo é de aproximadamente: </string>
+    <string name="seu_peso_em_fobos_de_aproximadamente"> Seu peso em Fobos é de aproximadamente: </string>
+    <string name="fobos_sat_lite_de_marte"> Fobos </string>
+    <string name="gan_medes_sat_lite_de_j_piter"> Ganímedes </string>
+    <string name="seu_peso_em_gan_medes_de_aproximadamente"> Seu peso em Ganímedes é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_gan_medes_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Ganímedes aplicada em seu corpo é de aproximadamente: </string>
+    <string name="io_sat_lite_de_j_piter"> Io </string>
+    <string name="seu_peso_em_io_de_aproximadamente"> Seu peso em Io é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_io_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Io aplicada em seu corpo é de aproximadamente: </string>
+    <string name="j_peto_sat_lite_de_saturno"> Jápeto </string>
+    <string name="seu_peso_em_j_peto_de_aproximadamente"> Seu peso em Jápeto é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_j_peto_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Jápeto aplicada em seu corpo é de aproximadamente: </string>
+    <string name="quaoar_planeta_an_o"> Quaoar </string>
+    <string name="seu_peso_em_quaoar_de_aproximadamente"> Seu peso em Quaoar é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_quaoar_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Quaoar aplicada em seu corpo é de aproximadamente: </string>
+    <string name="reia_sat_lite_de_saturno"> Reia </string>
+    <string name="seu_peso_em_reia_de_aproximadamente"> Seu peso em Reia é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_reia_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Reia aplicada em seu corpo é de aproximadamente: </string>
+    <string name="t_tis_sat_lite_de_saturno"> Tétis </string>
+    <string name="seu_peso_em_t_tis_de_aproximadamente"> Seu peso em Tétis é de aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_t_tis_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Tétis aplicada em seu corpo é de aproximadamente: </string>
+    <string name="tit_sat_lite_de_saturno"> Titã </string>
+    <string name="seu_peso_em_tit_de_aproximadamente"> Seu peso em Titã é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_de_tit_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional de Titã aplicada em seu corpo é de aproximadamente: </string>
+    <string name="terra_planeta"> Terra </string>
+    <string name="seu_peso_na_terra_de_aproximadamente"> Seu peso na Terra é de Aproximadamente: </string>
+    <string name="a_for_a_gravitacional_da_terra_aplicada_em_seu_corpo_de_aproximadamente"> A força gravitacional da Terra aplicada em seu corpo é de aproximadamente: </string>
+    <string name="planeta"> Planeta </string>
+    <string name="satelite_terra"> Satélite Natural da Terra </string>
+    <string name="planeta_anao"> Planeta Anão </string>
+    <string name="satelite_marte">Satélite Natural de Marte</string>
+    <string name="satelite_jupiter">Satélite Natural de Júpiter</string>
+    <string name="satelite_saturno">Satélite Natural de Saturno</string>
+    <string name="calisto_detalhes">
+            <b> Semi-Eixo Maior:</b> 1.882,700 km \n
+            <b> Periastro:</b> 1.869.000 km \n
+            <b> Apoastro:</b> 1.897.000 km \n
+            <b> Excentricidade:</b> 0,0074 \n
+            <b> Período Orbital:</b> 16,69 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 8,204 km/s \n
+            <b> Inclinação:</b> 0,192° \n
+            <b> Argumento do Periastro:</b> 52,643° \n
+            <b> Longitude do Nó Ascendente:</b> 298,848° \n
+            <b> Diâmetro Equatorial:</b> 4.806 ± 3 km \n
+            <b> Área da Superfície:</b> 7,30×10^7 km² \n
+            <b> Volume:</b> 5,9×10^10 km³ \n
+            <b> Massa:</b> 1,075938×10^23 kg \n
+            <b> Densidade Média:</b> 1,8344 ± 0,0034 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 1,235 m/s² \n
+            <b> Período de Rotação:</b> 16 d 16 h 32 m 11 s \n
+            <b> Velocidade de Escape:</b> 2,440 km/s \n
+            <b> Albedo:</b> 0,22 \n
+            <b> Magnitude Aparente:</b> 5,65\n
+            <b> Temperatura Máxima:</b> -108,1 ºC \n
+            <b> Temperatura Média:</b> -139,1 ºC \n
+            <b> Temperatura Mínima:</b> -193,2 ºC
+    </string>
+    <string name="ceres_detalhes">
+            <b> Diâmetro:</b> 959,2 × 932,6 km \n
+            <b> Massa:</b> 9,445×10^20 kg \n
+            <b> Velocidade Gravitacional:</b> 0,26 m/s² \n
+            <b> Axea:</b> 3° \n
+            <b> Albedo:</b> 0,113 \n
+            <b> Velocidade de Escape:</b> 0,51 km/s \n
+            <b> Magnitude Absoluta:</b> 3,34 \n
+            <b> Período de Rotação:</b> 0,3781 Dias Terrestes \n
+            <b> Temperatura Máxima:</b> -34 ºC \n
+            <b> Temperatura Média:</b> -106 ºC
+    </string>
+    <string name="dione_detalhes">
+            <b> Semi-Eixo Maior:</b> 377.396 km \n
+            <b> Excentricidade:</b> 0,0022 \n
+            <b> Período Orbital:</b> 2,74 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 10,03 km/s \n
+            <b> Inclinação:</b> 0,019° \n
+            <b> Diâmetro Equatorial:</b> 1.118 km \n
+            <b> Massa:</b> 1,096×10^21 kg \n
+            <b> Densidade Média:</b> 1,50 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 0,022 m/s² \n
+            <b> Período de Rotação:</b> 2 d 17 h 41 min 5 s \n
+            <b> Velocidade de Escape:</b> 0,5 km/s \n
+            <b> Albedo:</b> 0,55 \n
+            <b> Temperatura Média:</b> -186 ºC
+    </string>
+    <string name="encelado_detalhes">
+            <b> Semi-Eixo Maior:</b> 237 948 km \n
+            <b> Excentricidade:</b> 0,0045 \n
+            <b> Período Orbital:</b> 1,370218 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 12,64 km/s \n
+            <b> Inclinação:</b> 0,019° \n
+            <b> Diâmetro Equatorial:</b> 504,2 km \n
+            <b> Área da Superfície:</b> 800.000 km² \n
+            <b> Massa:</b> 1,08×10^20 kg \n
+            <b> Densidade Média:</b> 1,61 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 0,117 m/s² \n
+            <b> Período de Rotação:</b> 1 d 8 h 53 min 7 s \n
+            <b> Velocidade de Escape:</b> 0,241 km/s \n
+            <b> Albedo:</b> 1,375 ± 0,008 \n
+            <b> Temperatura Máxima:</b> -128 ºC \n
+            <b> Temperatura Média:</b> -198 ºC \n
+            <b> Temperatura Mínima:</b> -240,3 ºC \n
+    </string>
+    <string name="eris_detalhes">
+            <b> Diâmetro:</b> 2.400 km ± 100 km \n
+            <b> Massa:</b> 1,668×10^22 kg \n
+            <b> Gravidade Equatorial:</b> 0,8 m/s² \n
+            <b> Axea:</b> 44,18694° \n
+            <b> Albedo:</b> 0.86 ± 0.07 \n
+            <b> Magnitude Absoluta:</b> -1,2 ± 0,01 \n
+            <b> Período  do Rotação:</b> 8 Horas \n
+            <b> Temperatura Máxima:</b> -232 ºC \n
+            <b> Temperatura Média:</b> -243 ºC \n
+            <b> Temperatura Mínima:</b> -248 ºC \n
+    </string>
+    <string name="europa_detalhes">
+            <b> Semi-Eixo Maior:</b> 670.900 km \n
+            <b> Periastro:</b> 664.862 km \n
+            <b> Apoastro:</b> 676.938 km \n
+            <b> Circunferência orbital:</b> 4.215.389,017 km \n
+            <b> Excentricidade:</b> 0,009 \n
+            <b> Período Orbital:</b> 3,56 Dias Terrestres \n
+            <b> Período Sinódico:</b> 3,56 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 13,740 km/s \n
+            <b> Inclinação:</b> 0,470° \n
+            <b> Diâmetro Equatorial:</b> 1569 km \n
+            <b> Área da Superfície:</b> 3,09×107 km² \n
+            <b> Volume:</b> 1,593×1010 km³ \n
+            <b> Massa:</b> 4,80×1022 kg \n
+            <b> Densidade Média:</b> 3,01 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 1,314 m/s2 \n
+            <b> Período de Rotação:</b> 3 d 13 h 13 min 42 s \n
+            <b> Velocidade de Escape:</b> 2,025 km/s \n
+            <b> Albedo:</b> 0,67 ± 0,03 \n
+            <b> Temperatura Máxima:</b> -148,15 ºC \n
+            <b> Temperatura Média:</b> -171,15 ºC \n
+            <b> Temperatura Mínima:</b> -223,15 ºC \n
+    </string>
+    <string name="fobos_detalhes">
+            <b> Semi-Eixo Maior:</b> 9,376 km \n
+            <b> Periastro:</b> 9,234,42 km \n
+            <b> Apoastro:</b> 9,517,58 km \n
+            <b> Excentricidade:</b> 0,0151 \n
+            <b> Período Orbital:</b> 7 h 39 m 12 s \n
+            <b> Velocidade Orbital Média:</b> 2,138 km/s \n
+            <b> Inclinação:</b> 1,093° \n
+            <b> Dimensões:</b> 27 × 22 × 18 km \n
+            <b> Diâmetro Médio:</b> 11,2667 \n
+            <b> Área da Superfície:</b> 1,548,3 km² \n
+            <b> Massa:</b> 1,08×10^16 kg \n
+            <b> Densidade Média:</b> 1,876 g/cm³ \n
+            <b> Gravidade Superficial:</b> 0,0057 m/s2 \n
+            <b> Velocidade de Escape:</b> 11,38 km/s \n
+            <b> Inclinação Axial:</b> 0° \n
+            <b> Albedo:</b> 0,071±0,012 \n
+            <b> Temperatura Máxima:</b> S.D. ºC \n
+            <b> Temperatura Média:</b> -40,15 ºC \n
+            <b> Temperatura Mínima:</b> S.D. ºC \n
+    </string>
+    <string name="ganimedes_detalhes">
+            <b> Semi-Eixo Maior:</b> 1.070.400 km \n
+            <b> Periastro:</b> 1.069.200 km \n
+            <b> Apoastro:</b> 1.071.600 km \n
+            <b> Excentricidade:</b> 0,0013 \n
+            <b> Período Orbital:</b> 7,155 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 10,880 km/s \n
+            <b> Inclinação Eclíptica:</b> 2,214° \n
+            <b> Diâmetro Equatorial:</b> 5,268 km \n
+            <b> Área da Superfície:</b> 8,72 × 107 km² \n
+            <b> Volume:</b> 7,6 × 10^10 km³ \n
+            <b> Massa:</b> 1,4819 × 10^23 kg \n
+            <b> Densidade Média:</b> 1,936 g/cm³ \n
+            <b> Gravidade Superficial:</b> 1,428 m/s² \n
+            <b> Velocidade de Escape:</b> 2,741 km/s \n
+            <b> Inclinação Axial:</b> 0–0,33° \n
+            <b> Albedo:</b> 0,43 ± 0,02 \n
+            <b> Magnitude Aparente:</b> 4,61 \n
+            <b> Temperatura Máxima:</b> -121 ºC \n
+            <b> Temperatura Média:</b> -163 ºC \n
+            <b> Temperatura Mínima:</b> -203 ºC \n
+    </string>
+    <string name="io_detalhes">
+            <b> Circunferência Orbital:</b> 0,018 UA \n
+            <b> Excentricidade:</b> 0,0041 \n
+            <b> Período Orbital:</b> 1,77 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 17,334 km/s \n
+            <b> Inclinação:</b> 0,05 ° \n
+            <b> Diâmetro Equatorial:</b> 3642,6 km \n
+            <b> Área da Superfície:</b> 41.910.000 km² \n
+            <b> Volume:</b> 2,53×1010 km³ \n
+            <b> Massa:</b> 8,9319×10^22 kg \n
+            <b> Densidade Média:</b> 3,528 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 1,794 m/s² \n
+            <b> Período de Rotação:</b> 1 d 18 h 23 min 23 s \n
+            <b> Velocidade de Escape:</b> 2,6 km/s \n
+            <b> Albedo:</b> 0,63 \n
+            <b> Temperatura Máxima:</b> S.D ºC \n
+            <b> Temperatura Média:</b> -143 ºC \n
+            <b> Temperatura Mínima:</b> -183 ºC \n
+    </string>
+    <string name="japeto_detalhes">
+            <b> Semi-Eixo Maior:</b> 3.560.820 km \n
+            <b> Excentricidade:</b> 0,0283 \n
+            <b> Período Orbital:</b> 79,321 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 3,27 km/s \n
+            <b> Inclinação:</b> 15,47° \n
+            <b> Diâmetro Equatorial:</b> 1.436 km \n
+            <b> Área da Superfície:</b> 6.700.000 km² \n
+            <b> Massa:</b> (1,805 635 ± 0,000 375) × 10^21 kg \n
+            <b> Densidade Média:</b> 1,083 0 ± 0,006 6 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 2,186 \n
+            <b> Período de Rotação:</b> 79 d 7 h 12 m \n
+            <b> Velocidade de Escape:</b> 0,572 km/s \n
+            <b> Albedo:</b> 0,05-0,5 \n
+            <b> Temperatura Máxima:</b> -143,1 ºC \n
+            <b> Temperatura Média:</b> -158,1 ºC \n
+            <b> Temperatura Mínima:</b> -173,1 ºC \n
+    </string>
+    <string name="jupiter_detalhes">
+            <b> Semi-Eixo Maior:</b> 778.547.200 km \n
+            <b> Periélio:</b> 740.573.600 km \n
+            <b> Afélio:</b> 816.520.800 km \n
+            <b> Excentricidade:</b> 0,048775 \n
+            <b> Período Orbital:</b> 11,86 Anos Terrestres \n
+            <b> Período Sinódico:</b> 398,88 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 13,07 km/s \n
+            <b> Inclinação Com a Eclíptica:</b> 1,305° \n
+            <b> Inclinação Com o Equador solar:</b> 6,09° \n
+            <b> Inclinação Com o Plano Invariável:></b> 0,32 ° \n
+            <b> Número de Satélites:</b> 67 \n
+            <b> Diâmetro Equatorial:</b> 142.984 ± 8 km \n
+            <b> Área da Superfície:</b> 6,21796×10^10 km² \n
+            <b> Volume:</b> 1,43128×10^15 km³ \n
+            <b> Massa:</b> 1,8986×10^27 kg \n
+            <b> Densidade Média:</b> 1,326 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 24,79 m/s² \n
+            <b> Período de Rotação:</b> 9,925 Horas \n
+            <b> Velocidade de Escape:</b> 59,5 km/s \n
+            <b> Albedo:</b> 0,343 (Bond) 0,52 (Geométrico) \n
+            <b> Temperatura Máxima:</b> S.D. \n
+            <b> Temperatura Média:</b> -108 ºC \n
+            <b> Temperatura Mínima:</b> S.D. ºC \n
+    </string>
+    <string name="lua_detalhes">
+            <b> Semi-Eixo Maior:</b> 384.399 km \n
+            <b> Perigeu:</b> 363.104 km \n
+            <b> Apogeu:</b> 405.696 km \n
+            <b> Excentricidade:</b> 0,0549 \n
+            <b> Período Orbital:</b> 27,322 Dias Terrestres \n
+            <b> Período Sinódico:</b> 29,53 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 1,022 km/s \n
+            <b> Inclinação Com a Eclíptica:</b> 5,145° \n
+            <b> Inclinação Com o Equador da Terra:</b> 26,29° \n
+            <b> Diâmetro Equatorial:</b> 3.474,8 km \n
+            <b> Área da Superfície:</b> 3,793x10^7 km² \n
+            <b> Volume:</b> 2,1958 × 10^10 km³ \n
+            <b> Massa:</b> 7,349x10^22 kg \n
+            <b> Densidade Média:</b> 3,34 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 1.622 m/s² \n
+            <b> Período de Rotação:</b> 27 d 7 h 43 min \n
+            <b> Velocidade de Escape:</b> 2,38 km/s \n
+            <b> Albedo:</b> 0,1054 \n
+            <b> Temperatura Máxima:</b> 116,9 ºC \n
+            <b> Temperatura Média:</b> -53,1 ºC \n
+            <b> Temperatura Mínima:</b> -173,1 ºC \n
+    </string>
+    <string name="marte_detalhes">
+            <b> Semi-Eixo Maior:</b> 227.939.100 km \n
+            <b> Periélio:</b> 206.669.000 km \n
+            <b> Afélio:</b> 249.209.300 km \n
+            <b> Excentricidade:</b> 0,093315 \n
+            <b> Período Orbital:</b> 686,971 Dias Terrestres \n
+            <b> Período Sinódico:</b> 779,96 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 24,077 km/s \n
+            <b> Inclinação Com a Eclíptica:</b> 1.850° \n
+            <b> Inclinação Com o Equador do Sol:</b> 5.65° \n
+            <b> Número de Satélites:</b> 2 (Fobos e Deimos) \n
+            <b> Diâmetro Equatorial:</b> 6.792,4 km \n
+            <b> Área da Superfície:</b> 144.798.500 km² \n
+            <b> Volume:</b> 1,6318×10^11 km³ \n
+            <b> Massa:</b> 6,4174×10^23 kg \n
+            <b> Densidade Média:</b> 3,933 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 3,711 m/s² \n
+            <b> Período de Rotação:</b> 24 h 37 min 22 s \n
+            <b> Velocidade de Escape:</b> 5,03 km/s \n
+            <b> Albedo:</b> 0,170 \n
+            <b> Temperatura Máxima:</b> 35 ºC \n
+            <b> Temperatura Média:</b> -63 ºC \n
+            <b> Temperatura Mínima:</b> -143 ºC \n
+    </string>
+    <string name="mercurio_detalhes">
+            <b> Semi-Eixo Maior:</b> 57.909.050 km \n
+            <b> Periélio:</b> 46.001.200 km \n
+            <b> Afélio:</b> 69.816.900 km \n
+            <b> Excentricidade:</b> 0,205630 \n
+            <b> Período Orbital:</b> 87.969 Dias Terrestres \n
+            <b> Período Sinódico:</b> 115.88 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 47,362 km/s \n
+            <b> Inclinação Com a Eclíptica:</b> 7.005º \n
+            <b> Inclinação Com o Equador do Sol:</b> 3.38º \n
+            <b> Inclinação Com o Plano Invariável:</b> 6.34° \n
+            <b> Argumento do Periastro:</b> 29,124º \n
+            <b> Longitude do Nó Ascendente:</b> 48,331º \n
+            <b> Número de Satélites:</b> Nenhum \n
+            <b> Diâmetro Equatorial:</b> 4.879,4 km \n
+            <b> Área da Superfície:</b> 7,48×10^7 km² \n
+            <b> Volume:</b> 6,083×10^10 km³ \n
+            <b> Massa:</b> 3,3011×10^23 kg \n
+            <b> Densidade Média:</b> 5,427 g/cm³ \n
+            <b> Gravidade Superficial:</b> 3,78 m/s² \n
+            <b> Período de Rotação:</b> 58.646 Dias Terrestres \n
+            <b> Velocidade de Escape:</b> 4,25 km/s \n
+            <b> Inclinação Axial:</b> 0,01º \n
+            <b> Albedo:</b> 0,142 (geométrico) 0,068 (Bond) \n
+            <b> Magnitude Aparente:</b> −2.6 para 5.7 \n
+            <b> Temperatura Máxima:</b> 426,85 ºC \n
+            <b> Temperatura Média:</b> 166,85 ºC \n
+            <b> Temperatura Mínima:</b> -183,15 ºC \n
+    </string>
+    <string name="netuno_detalhes">
+            <b> Semi-Eixo Maior:</b> 4.503.443.661 km \n
+            <b> Periélio:</b> 4.452.940.833 km \n
+            <b> Afélio:</b> 4.553.946.490 km \n
+            <b> Excentricidade:</b> 0,011214269 \n
+            <b> Período Orbital:</b> 164,79 Anos Terrestres \n
+            <b> Período Sinódico:</b> 367,5 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 5,43 km/s \n
+            <b> Inclinação Eclíptica:</b> 1,767975° \n
+            <b> Inclinação do Equador Solar:</b> 6,43° \n
+            <b> Inclinação do Plano invariável:</b> 0,72° \n
+            <b> Argumento do Periastro:</b> 265,646853° \n
+            <b> Longitude do nó Ascendente:</b> 131,794310° \n
+            <b> Número de Satélites:</b> 14 \n
+            <b> Diâmetro Equatorial:</b> 49.528 km \n
+            <b> Área da Superfície:</b> 7,6183×10^9 km² \n
+            <b> Volume:</b> 6,254×10^13 km³ \n
+            <b> Massa:</b> 1,0243×10^26 kg \n
+            <b> Densidade Média:</b> 1,638 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 11,15 m/s² \n
+            <b> Período de Rotação:</b> 16 h 6 min 36 s \n
+            <b> Velocidade de Escape:</b> 23,5 km/s \n
+            <b> Inclinação Axial:</b> 28,32° \n
+            <b> Albedo:</b> 0,290 (Bond) 0,41 (geom.) \n
+            <b> Magnitude Aparente:</b> 8,02 a 7,78 \n
+            <b> Temperatura Máxima:</b> S.D.ºC \n
+            <b> Temperatura Média:</b> −201,15 ºC \n
+            <b> Temperatura Mínima:</b> −221,3 ºC \n
+    </string>
+    <string name="plutao_detalhes">
+            <b> Semi-Eixo Maior:</b> 5.906.376.272 km \n
+            <b> Periélio:</b> 4.436.824.613 km \n
+            <b> Afélio:</b> 7.375.927.931 km \n
+            <b> Excentricidade:</b> 0,24880766 \n
+            <b> Período Orbital:</b> 248,09 Anos Terrestres \n
+            <b> Período Sinódico:</b> 366,73 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 4,666 km/s \n
+            <b> Inclinação Eclíptica:</b> 17,14175° \n
+            <b> Inclinação do Equador solar:</b> 11,88° \n
+            <b> Argumento do Periastro:</b> 113,76329° \n
+            <b> Longitude do nó Ascendente:</b> 110,30347° \n
+            <b> Número de Satélites:</b> 5 \n
+            <b> Diâmetro Médio:</b> 2374 ± 8 \n
+            <b> Área da Superfície:</b> 1,665×10^7 km² \n
+            <b> Volume:</b> 6,39×10^9 km³ \n
+            <b> Massa:</b> (1,305 ± 0,007)×10^22 kg \n
+            <b> Densidade Média:</b> 2,03 ± 0,06 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 0,658 m/s² \n
+            <b> Período de Rotação:</b> 6 d 9 h 17 m 36 s \n
+            <b> Velocidade de Escape:</b> 1,229 km/s \n
+            <b> Inclinação Axial:</b> 119,591±0,014° \n
+            <b> Albedo:</b> 0,49–0,66 \n
+            <b> Magnitude Aparente:</b> 13,65 a 16,3 \n
+            <b> Magnitude Absoluta:</b> -0,7 \n
+            <b> Temperatura Máxima:</b> -218 ºC \n
+            <b> Temperatura Média:</b> -229 ºC \n
+            <b> Temperatura Mínima:</b> -240 ºC \n
+    </string>
+    <string name="quaoar_detalhes">
+            <b> Afélio:</b> 6,711620×10^9 km \n
+            <b> Periélio:</b> 6,266487×10^9 km \n
+            <b> Diâmetro:</b> 1.250 km \n
+            <b> Massa:</b> 1.000 kg/m³ \n
+            <b> Gravidade Superficial:</b> 0,17 m/s² \n
+            <b> Período de Rotação:</b> 0,736617 Dias Terrestres \n
+            <b> Magnitude Absoluta:</b> 2,6 \n
+            <b> Velocidade Orbital:</b> 4,52 km/s \n
+            <b> Período de revolução:</b> 285,69 Anos Terrestres \n
+            <b> Temperatura:</b> ~59 K
+    </string>
+    <string name="reia_detalhes">
+            <b> Semi-Eixo Maior:</b> 527.108 km \n
+            <b> Excentricidade:</b> 0,0012583 \n
+            <b> Período Orbital:</b> 4,52 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 8,49 km/s \n
+            <b> Inclinação:</b> 0,345° \n
+            <b> Diâmetro Equatorial:</b> 1.528 km \n
+            <b> Área da Superfície:</b> 7.337.000 km² \n
+            <b> Massa:</b> 2,306518×10^21 kg \n
+            <b> Densidade Média:</b> 1,2333 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 2,588 m/s² \n
+            <b> Período de Rotação:</b> 4 d 12 h 26 m 14 s \n
+            <b> Velocidade de Escape:</b> 0,635 km/s \n
+            <b> Albedo:</b> 0,949 ± 0,003 \n
+            <b> Temperatura Máxima:</b> -174,1 ºC \n
+            <b> Temperatura Média:</b> -197,2 ºC \n
+            <b> Temperatura Mínima:</b> -220,2 ºC \n
+    </string>
+    <string name="saturno_detalhes">
+            <b> Semi-Eixo Maior:</b> 1.433.449.370 km \n
+            <b> Periélio:</b> 1.353.572.956 km \n
+            <b> Afélio:</b> 1.513.325.783 km \n
+            <b> Excentricidade:</b> 0,055723219 \n
+            <b> Período Orbital:</b> 29,4571 Anos Terrestres \n
+            <b> Período sinódico:</b> 378,09 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 9,69 km/s \n
+            <b> Inclinação Eclíptica:</b> 2,485 240° \n
+            <b> Inclinação do Equador Solar:</b> 5,51° \n
+            <b> Inclinação do Plano Invariável:</b> 0,93° \n
+            <b> Longitude do nó Ascendente:</b> 113,642811 \n
+            <b> Número de Satélites:</b> 62 \n
+            <b> Diâmetro Equatorial:</b> 120.536 km \n
+            <b> Área da Superfície:</b> 4.27×10^10 km² \n
+            <b> Volume:</b> 8,2713×10^14 km³ \n
+            <b> Massa:</b> 5,6846 × 10^26 kg \n
+            <b> Densidade Média:</b> 0,687 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 10,44 m/s² \n
+            <b> Período de Rotação:</b> 10h 34min \n
+            <b> Velocidade de Escape:</b> 35,5 km/s \n
+            <b> Inclinação Axial:</b> 26,73° \n
+            <b> Albedo:</b> 0,342 (Bond) 0,47 (geom.) \n
+            <b> Magnitude Aparente:</b> 1,47 até −0,24 \n
+            <b> Temperatura Máxima:</b>S.D.ºC \n
+            <b> Temperatura Média:</b> -139 ºC \n
+            <b> Temperatura Mínima:</b>S.D.ºC \n
+    </string>
+    <string name="sol_detalhes">
+            <b> Distância Média da Terra:</b> 1,496×10^11 km \n
+            <b> Magnitude Aparente:</b> −26,74 \n
+            <b> Magnitude Absoluta:</b> 4,85 \n
+            <b> Classificação Estelar:</b> G2V \n
+            <b> Metalicidade:</b> Z = 0,0177 \n
+            <b> Diâmetro Angular:</b> 31,6′ – 32,7′ \n
+            <b> Adjetivo:</b> Solar \n
+            <b> Distância Média do Centro da Gatáxia:</b> 26.000 Anos-Luz \n
+            <b> Período Orbital Galáctico:</b> 2,50×10^8 Anos Terrestres \n
+            <b> Velocidade:</b> ~2,20×10^5 m/s \n
+            <b> Órbita em Torno do Centro da Galáxia:</b> ~2×104 m/s \n
+            <b> Diâmetro Médio:</b> 1,392×10^9 km \n
+            <b> Raio Equatorial:</b> 6,963×10^8 km \n
+            <b> Circunferência Equatorial:</b> 4,379×10^9 km \n
+            <b> Achatamento:</b> 9×10^−6 \n
+            <b> Área de Superfície:</b> 6,0877×10^12 km² \n
+            <b> Volume:</b> 1,412×10^18 km³ \n
+            <b> Massa:</b> 1,9891×10^30 kg \n
+            <b> Densidade Média:</b> 1,408×10^3 kg/m³ \n
+            <b> Densidade do Núcleo:</b> 1,5×10^5 kg/m³ \n
+            <b> Densidade da Base da Fotosfera:</b> 2×10^−4 kg/m³ \n
+            <b> Base da Cromosfera:</b> 5×10^−6 kg/m³ \n
+            <b> Coroa Solar:</b> 1×10^−12 kg/m³ \n
+            <b> Gravidade na Superfície:</b> 274,0 m/s² \n
+            <b> Velocidade de Escape:</b> 617,7 km/s \n
+            <b> Temperatura da Superfície:</b> 5.778 K \n
+            <b> Temperatura da Coroa Solar:</b> ~5×10^6 K \n
+            <b> Temperatura do Núcleo:</b> ~15,7×10^6 K \n
+            <b> Luminosidade:</b> 3,846×10^26 Whatts \n
+            <b> Intensidade:</b> 2,009×10^7 W·m−2·sr−1 \n
+            <b> Obliquidade Para a Eclíptica:</b> 7,25° \n
+            <b> Obliquidade Para o Plano Galático:</b> 67,23° \n
+            <b> Período de Rotação na Latitude:</b> 25,38 Dias Terrestres \n
+            <b> Período de Rotação no Equador:</b> 25,05 Dias Terrestres \n
+            <b> Período de Rotação nos Pólos:</b> 34,3 Dias Terrestres \n
+            <b> Velocidade de Rotaçãono Equador:</b> 7,189×10^3 km/h
+    </string>
+    <string name="terra_detalhes">
+            <b> Semi-Eixo Maior:</b> 149.598.261 km \n
+            <b> Periélio:</b> 147.098.290 km \n
+            <b> Afélio:</b> 152.098.232 km \n
+            <b> Excentricidade:</b> 0,01671123 \n
+            <b> Período orbital:</b> 365,2563 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 29,78 km/s \n
+            <b> Inclinação ao Equador do Sol:</b> 7,155°\n
+            <b> Inclinação ao Plano Invariável:</b> 1,57869° \n
+            <b> Argumento do Periastro:</b> 114,20783° \n
+            <b> Longitude do Nó Ascendente:</b> 348,73936° \n
+            <b> Número de Satélites:</b> 1 (Lua) \n
+            <b> Diâmetro Equatorial:</b> 12.756,2 km \n
+            <b> Área da Superfície:</b> 510.072.000 km² \n
+            <b> Volume:</b> 1,08321×10^12 km³ \n
+            <b> Massa:</b> 5,9736×10^24 kg \n
+            <b> Densidade Média:</b> 5,515 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 9,780 m/s² \n
+            <b> Período de Rotação:</b> 23h 56m 4,100s \n
+            <b> Velocidade de Escape:</b> 11,186 km/s \n
+            <b> Inclinação Axial:</b> 23° \n
+            <b> Albedo:</b> 0,367 (geométrico) 0,306 (Bond) \n
+            <b> Temperatura Máxima:</b> 57,8ºC \n
+            <b> Temperatura Média:</b> 14 ºC \n
+            <b> Temperatura Mínima:</b> -93,2 ºC \n
+    </string>
+    <string name="tetis_detalhes">
+            <b> Semi-Eixo Maior:</b> 294.619 km \n
+            <b> Excentricidade:</b> 0,00 \n
+            <b> Período Orbital:</b> 1,888 Dias Terrestres \n
+            <b> Inclinação:</b> 1,12° \n
+            <b> Diâmetro Principal:</b> 1059,8 km \n
+            <b> Massa:</b> 6,18×10^20 kg \n
+            <b> Densidade Média:</b> 0,99 g/cm³ \n
+            <b> Gravidade Superficial:</b> 0,16 m/s² \n
+            <b> Período de Rotação:</b> 1,888 Dias Terrestres \n
+            <b> Inclinação Axial:</b> 0,00° \n
+            <b> Albedo:</b> 0,8 \n
+            <b> Temperatura Média:</b> -187,15 ºC \n
+    </string>
+    <string name="tita_detalhes">
+            <b> Semi-Eixo Maior:</b> 1.221.870 km \n
+            <b> Periastro:</b> 1.186.680 km \n
+            <b> Apoastro:</b> 1.257.060 km \n
+            <b> Excentricidade:</b> 0,0288 \n
+            <b> Período Orbital:</b> 15,945 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 5,57 km/s \n
+            <b> Inclinação:</b> 0,34854° \n
+            <b> Diâmetro Equatorial:</b> 5.151 km \n
+            <b> Área da Superfície:</b> 8,3×10^7 km² \n
+            <b> Volume:</b> 7,16×10^10 km³ \n
+            <b> Massa:</b> (1,3452 ± 0.0002)×10^23 kg \n
+            <b> Densidade Média:</b> 1,8798 ± 0,0044 g/cm³ \n
+            <b> Gravidade Superficial:</b> 1,352 m/s² \n
+            <b> Velocidade de Escape:</b> 2,639 km/s \n
+            <b> Inclinação Axial:</b> Zero \n
+            <b> Albedo:</b> 0,22 \n
+            <b> Magnitude Aparente:</b> 8,2 a 9 \n
+            <b> Pressão Atmosférica:</b> 146,7 kPa \n
+            <b> Temperatura Média:</b> -179,5 ºC \n
+    </string>
+    <string name="urano_detalhes">
+            <b> Semi-Eixo Maior:</b> 2.876.679.082 km \n
+            <b> Periélio:</b> 2.748.938.461 km \n
+            <b> Afélio:</b> 3.004.419.704 km \n
+            <b> Excentricidade:</b> 0,044405586 \n
+            <b> Período Orbital:</b> 84,323326 Anos Terrestres \n
+            <b> Período sinódico:</b> 369,66 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 6,81 km/s \n
+            <b> Inclinação Eclíptica:</b> 0,772556° \n
+            <b> Equador solar:</b> 6,48° \n
+            <b> Plano Invariável:</b> 1,02° \n
+            <b> Argumento do Periastro:</b> 96,541318° \n
+            <b> Longitude do Nó Ascendente:</b> 73,989821° \n
+            <b> Número de Satélites:</b> 27 \n
+            <b> Diâmetro Equatorial:</b> 51 118 ± 8 km \n
+            <b> Área da Superfície:</b> 8,115 6×10^9 km² \n
+            <b> Volume:</b> 6,833×1013 km³ \n
+            <b> Massa:</b> (8,6810 ± 0,0013)×10^25 kg \n
+            <b> Densidade Média:</b> 1,27 g/cm³ \n
+            <b> Gravidade Equatorial:</b> 8,69 m/s² \n
+            <b> Período de Rotação:</b> 17 h 14 min 24 s \n
+            <b> Velocidade de Escape:</b> 21,3 km/s \n
+            <b> Inclinação Axial:</b> 97,77° \n
+            <b> Albedo:</b> 0,300 (Bond) 0,51 (geométrico) \n
+            <b> Magnitude Aparente:</b> 5,9 a 5,32 \n
+            <b> Temperatura Máxima:</b> -216 ºC \n
+            <b> Temperatura Média:</b> -220 ºC \n
+            <b> Temperatura Mínima:</b> -224 ºC \n
+    </string>
+    <string name="venus_detalhes">
+            <b> Semi-Eixo Maior:</b> 108.208.930 km \n
+            <b> Periélio:</b> 107.476.000 km \n
+            <b> Afélio:</b> 108.942.000 km \n
+            <b> Excentricidade:</b> 0,006772 \n
+            <b> Período Orbital:</b> 224,701 Dias Terrestres \n
+            <b> Período Sinódico:</b> 583,92 Dias Terrestres \n
+            <b> Velocidade Orbital Média:</b> 35,02 km/s \n
+            <b> Inclinação Com a eclíptica:</b> 3,39471º \n
+            <b> Inclinação com o Equador do Sol:</b> 3,86 \n
+            <b> Inclinação com o Plano invariável:</b> 2,19° \n
+            <b> Argumento do Periastro:</b> 54,85229º \n
+            <b> Longitude do Nó Ascendente:</b> 76,68069º \n
+            <b> Número de Satélites:</b> Nenhum \n
+            <b> Diâmetro Médio:</b> 12.103,6 km \n
+            <b> Área da Superfície:</b> 4,60×10^8 km² \n
+            <b> Volume:</b> 9,2843×10^10 km³ \n
+            <b> Massa:</b> 4,8685×10^24 kg \n
+            <b> Densidade Média:</b> 5,243 g/cm³ \n
+            <b> Gravidade Superficial:</b> 8,87 m/s² \n
+            <b> Período de Rotação:</b> 243,021 Dias Terrestres \n
+            <b> Velocidade de Escape:</b> 10,36 km/s \n
+            <b> Inclinação Axial:</b> 177,36º \n
+            <b> Albedo:</b> 0,67 (geométrico) 0,90 (Bond) \n
+            <b> Magnitude Aparente:</b> -4,6 \n
+            <b> Temperatura Média:</b> 461 ºC \n
+    </string>
+    <string name="calisto_sat_lite_de_j_piter">Calisto</string>
+    <string name="seu_peso_em_ris_de_aproximadamente">Seu peso em Éris é de aproximadamente:</string>
+    <string name="title_activity_tab">Meu peso em outro planeta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="como_se_calcula"><b>O Peso?</b>\n\nO Peso (P) é uma grandeza vetorial visto que apresenta intensidade, direção e sentido, sendo o produto da massa de um corpo e a aceleração da gravidade exercida sobre ele. Dessa forma, diferentemente da massa, o peso é um valor variável. No Sistema Internacional (SI), a unidade padrão do Peso é representada em Newton (N). A partir disso, para calcular o peso dos corpos, utiliza-se a seguinte expressão:\n\nP = m.g\n\nOnde,\nP: peso \nm: massa \ng: aceleração da gravidade\n\nAssim, se o valor de gravidade (g) na superfície do planeta Terra é de aproximadamente 9,780 m/s² ,qual é o peso de um corpo de massa 60kg?\n\nP = m.g \nP = 60 x 9,780 \nP = 586,8 N \n\n\nLogo, o peso de uma pessoa de massa 60 kg no planeta terra é de 586,8 Newton.\nPor conseguente, se o valor de gravidade (g) na superfície do planeta marte é de aproximadamente 3,711 m/s², qual é o peso de um corpo de massa 60kg?\n\nP = m.g\nP = 60 x 3,711 \nP = 222,66 N \n\nLogo, o peso de uma pessoa de massa 60 kg no marte é de 222.66 Newton.\n\nAgora é só converter a massa do corpo da terra em massa do corpo em marte\n\nM = p / g\n\nOnde,\nM: massa \np: peso \ng: aceleração da gravidade da terra \n\n\nM = p / g \nM = 222,66 / 9,780 \nM = 22,766 kg\n\nResumindo: se você tem uma massa de 60 kg na terra você terá uma massa 22,77 kg em marte aproximadamente\n\n<b>A força gravitacional aplicada em seu corpo?</b>\n\nUsa-se a mesma fórmula, sabendo que você tem uma massa de 22,77 kg em marte e que a aceleração de marte é de 3,711 m/s²\n\nP = m.g \nP = 22,77 x 3,711 \nP = 84,49 n\n\nVocê terá o peso de 84,49 Newton em Marte.\n</string>
+    <string name="sobre">Sobre</string>
+    <string name="como_calculamos">Como calculamos?</string>
+    <string name="outros">Outros</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="qualificar_no_play_store">Qualificar no Play Store</string>
+    <string name="title_activity_principal">Meu peso em outro planeta</string>
+    <string name="calisto_nsat_lite_de_j_piter">Calisto\nSatélite de Júpiter</string>
+    <string name="ceres_nplaneta_an_o">Ceres\nPlaneta Anão</string>
+    <string name="dione_nsat_lite_de_saturno">Dione\nSatélite de Saturno</string>
+    <string name="enc_lado_nsat_lite_de_saturno">Encélado\nSatélite de Saturno</string>
+    <string name="ris_nplaneta_an_o">Éris\nPlaneta Anão</string>
+    <string name="europa_nsat_lite_de_j_piter">Europa\nSatélite de Júpiter</string>
+    <string name="fobos_nsat_lite_de_marte">Fobos\nSatélite de Marte</string>
+    <string name="gan_medes_nsat_lite_de_saturno">Ganímedes\nSatélite de Júpiter</string>
+    <string name="io_nsat_lite_de_j_piter">Io\nSatélite de Júpiter</string>
+    <string name="j_peto_nsat_lite_de_saturno">Jápeto\nSatélite de Saturno</string>
+    <string name="j_piter_nplaneta">Júpiter - Planeta</string>
+    <string name="lua_nsat_lite_da_terra">Lua\nSatélite da Terra</string>
+    <string name="merc_rio_nplaneta">Mercúrio - Planeta</string>
+    <string name="marte_nplaneta">Marte - Planeta</string>
+    <string name="netuno_nplaneta">Netuno - Planeta</string>
+    <string name="plut_o_nplaneta_an_o">Plutão\nPlaneta Anão</string>
+    <string name="quaoar_nplaneta_an_o">Quaoar\nPlaneta Anão</string>
+    <string name="reia_nsat_lite_de_saturno">Reia\nSatélite de Saturno</string>
+    <string name="satuno_nplaneta">Saturno - Planeta</string>
+    <string name="sol_nestrela">Sol - Estrela</string>
+    <string name="terra_nplaneta">Terra - Planeta</string>
+    <string name="t_tis_nsat_lite_de_saturno">Tétis\nSatélite de Saturno</string>
+    <string name="tit_nsat_lite_de_saturno">Titã\nSatélite de Saturno</string>
+    <string name="urano_nplaneta">Urano - Planeta</string>
+    <string name="v_nus_nplaneta">Vênus - Planeta</string>
+    <string name="mensag_sobre">Versão 1.4.7 do Meu peso em outro planeta.\n\nDesenvolvido por Edimilson Borges\nCopyright© 2017 – 2019\nTodos os direitos reservados.</string>
+    <string name="versao">Versão: 1.4.7</string>
+    <string name="alertsair">Deseja sair do App?</string>
+    <string name="alertbutsim">SIM</string>
+    <string name="alertbutnao">NÃO</string>
+    <string name="digiteseupeso">Digite seu peso e clique em calcular</string>
+    <string name="titleAtualizacao">Nova atualização encontrada.</string>
+    <string name="mess1Atualizacao">A versão</string>
+    <string name="mess2Atualizacao">foi encontrada, deseja atualizar para essa nova versão agora?</string>
+</resources>

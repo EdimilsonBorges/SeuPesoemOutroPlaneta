@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_sobre"
+            android:title="@string/sobre" />
+        <item
+            android:id="@+id/nav_ajuda"
+            android:icon="@drawable/ic_ajuda"
+            android:title="@string/como_calculamos" />
+    </group>
+
+    <item android:title="@string/outros">
+        <menu>
+            <item
+                android:id="@+id/nav_compartilhar"
+                android:icon="@drawable/ic_compartilhar"
+                android:title="@string/compartilhar" />
+            <item
+                android:id="@+id/nav_qualificar"
+                android:icon="@drawable/ic_qualificar"
+                android:title="@string/qualificar_no_play_store" />
+        </menu>
+    </item>
+
+</menu>

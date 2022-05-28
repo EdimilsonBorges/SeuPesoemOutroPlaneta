@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quaoar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.edimilsonborges.seupesoemoutroplaneta.planetas.QuaoarActivity"
+    android:orientation="vertical"
+    android:background="#ff000000">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+                    <TextView
+                        android:text="@string/quaoar_nplaneta_an_o"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView11"
+                        android:textColor="#e3f2fd"
+                        android:textSize="23sp"
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:paddingBottom="10dp" />
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textView3"
+                            android:textColor="#e3f2fd"
+                            android:gravity="center"
+                            android:textAlignment="center"
+                            android:text="@string/seu_peso_em_quaoar_de_aproximadamente" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textViewRQuaoar"
+                            android:textColor="@color/colorPrimary"
+                            android:textSize="25sp"
+                            android:gravity="center"
+                            android:textAlignment="center" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:srcCompat="@drawable/quaoar"
+                            android:id="@+id/imageView2"
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:contentDescription=""
+                            tools:ignore="ContentDescription" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView7"
+                            android:textColor="#e3f2fd"
+                            android:gravity="center"
+                            android:textAlignment="center"
+                            android:text="@string/a_for_a_gravitacional_de_quaoar_aplicada_em_seu_corpo_de_aproximadamente" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textViewRFQuaoar"
+                            android:textColor="@color/colorPrimary"
+                            android:textSize="20sp"
+                            android:gravity="center"
+                            android:textAlignment="center" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView13"
+                            android:textColor="#e3f2fd"
+                            android:paddingBottom="10dp"
+                            android:text="@string/detalhes" />
+
+                        <TextView
+                            android:text="@string/quaoar_detalhes"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView16"
+                            android:textColor="@color/colorPrimary"
+                            android:layout_marginBottom="100dp"
+                            android:textSize="10sp" />
+
+                    </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

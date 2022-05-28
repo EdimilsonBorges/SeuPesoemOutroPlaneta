@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My weight on another planet</string>
+    <string name="a_for_a_gravitacional_da_terra_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of the Earth applied to your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_calisto_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Callisto applied on your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_ceres_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Ceres applied on your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_dione_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Dione applied on his body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_enc_lado_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Enceladus applied in its body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_europa_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Europe applied in its body is of approximately:</string>
+    <string name="a_for_a_gravitacional_de_fobos_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Phobos applied in your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_gan_medes_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Ganymede applied in his body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_io_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Io applied in your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_j_peto_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Ipeto applied in its body is of approximately:</string>
+    <string name="a_for_a_gravitacional_de_quaoar_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Quaoar applied in your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_reia_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Reia applied on his body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_ris_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Eris applied in his body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_t_tis_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Thetis applied on your body is approximately:</string>
+    <string name="a_for_a_gravitacional_de_tit_aplicada_em_seu_corpo_de_aproximadamente">The gravitational force of Titan applied on your body is approximately:</string>
+    <string name="btncalcular">Calculate</string>
+    <string name="calisto_sat_lite_de_j_piter">Callisto</string>
+    <string name="ceres_planeta_an_o">Ceres</string>
+    <string name="dione_sat_lite_de_saturno">Dione</string>
+    <string name="enc_lado_sat_lite_de_saturno">Enceladus</string>
+    <string name="europa_sat_lite_de_j_piter">Europe</string>
+    <string name="fobos_sat_lite_de_marte">Phobos</string>
+    <string name="gan_medes_sat_lite_de_j_piter">Ganymede</string>
+    <string name="io_sat_lite_de_j_piter">Io</string>
+    <string name="j_peto_sat_lite_de_saturno">Ipeto</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="jupiter1">Your weight on Jupiter is approximately:</string>
+    <string name="jupiter2">The gravitational force of Jupiter applied in your body is approximately:</string>
+    <string name="kg">Kg</string>
+    <string name="lua">Moon</string>
+    <string name="lua1">Your weight on the Moon is approximately:</string>
+    <string name="lua2">The gravitational force of the Moon applied to your body is approximately:</string>
+    <string name="marte">Mars</string>
+    <string name="marte1">Your weight on Mars is approximately:</string>
+    <string name="marte2">The gravitational force of Mars applied to your body is approximately:</string>
+    <string name="mercurio">Mercury</string>
+    <string name="mercurio1">Your weight on Mercury is approximately:</string>
+    <string name="mercurio2">The gravitational force of Mercury applied on your body is approximately:</string>
+    <string name="netuno">Neptune</string>
+    <string name="netuno1">Your weight in Neptune is approximately:</string>
+    <string name="netuno2">The gravitational force of Neptune applied on your body is approximately:</string>
+    <string name="newton">Newton</string>
+    <string name="planeta">Planet</string>
+    <string name="planeta_anao">Planet Dwarf</string>
+    <string name="plutao">Pluto</string>
+    <string name="plutao1">Your weight on Pluto is about:</string>
+    <string name="plutao2">The gravitational force of Pluto applied in your body is approximately:</string>
+    <string name="quaoar_planeta_an_o">Quaoar</string>
+    <string name="reia_sat_lite_de_saturno">Reia</string>
+    <string name="ris_planeta_an_o">Eris</string>
+    <string name="satelite_jupiter">Natural satellite of Jupiter</string>
+    <string name="satelite_marte">Natural satellite of Mars</string>
+    <string name="satelite_saturno">Natural satellite of Saturn</string>
+    <string name="satelite_terra">Natural satellite of Earth\'s</string>
+    <string name="saturno">Saturn</string>
+    <string name="saturno1">Your weight on Saturn is approximately:</string>
+    <string name="saturno2">The gravitational force of Saturn applied in your body is approximately:</string>
+    <string name="setError">Can not be empty</string>
+    <string name="seu_peso_em_calisto_de_aproximadamente">Your weight in Callisto is approximately:</string>
+    <string name="seu_peso_em_ceres_de_aproximadamente">Your weight in Ceres is approximately:</string>
+    <string name="seu_peso_em_dione_de_aproximadamente">Your weight in Dione is approximately:</string>
+    <string name="seu_peso_em_enc_lado_de_aproximadamente">Your  weight in Enceladus is approximately:</string>
+    <string name="seu_peso_em_europa_de_aproximadamente">Your weight in Europe is approximately:</string>
+    <string name="seu_peso_em_fobos_de_aproximadamente">Your weight in Phobos is approximately:</string>
+    <string name="seu_peso_em_gan_medes_de_aproximadamente">Your weight in Ganymede is approximately:</string>
+    <string name="seu_peso_em_io_de_aproximadamente">Your weight in  Io is approximately:</string>
+    <string name="seu_peso_em_j_peto_de_aproximadamente">Your weight in Ipeto is approximately:</string>
+    <string name="seu_peso_em_quaoar_de_aproximadamente">Your weight in Quaoar is approximately:</string>
+    <string name="seu_peso_em_reia_de_aproximadamente">Your weight in Reais is approximately:</string>
+    <string name="seu_peso_em_ris_de_aproximadamente">Your weight in Eris is approximately:</string>
+    <string name="seu_peso_em_t_tis_de_aproximadamente">Your weight in Tethys is approximately:</string>
+    <string name="seu_peso_em_tit_de_aproximadamente">Your weight in Titan is approximately:</string>
+    <string name="seu_peso_na_terra_de_aproximadamente">Your weight in Earth is approximately:</string>
+    <string name="sol">Sun</string>
+    <string name="sol1">Your Weight in the Sun is Approximately:</string>
+    <string name="sol2">The gravitational force of the Sun applied in your body is approximately:</string>
+    <string name="t_tis_sat_lite_de_saturno">Tetis</string>
+    <string name="terra_planeta">Earth</string>
+    <string name="tit_sat_lite_de_saturno">Titan</string>
+    <string name="urano">Uranus</string>
+    <string name="urano1">Your weight in Uranus is approximately:</string>
+    <string name="urano2">The gravitational force of Uranus applied on your body is approximately:</string>
+    <string name="venus">Venus</string>
+    <string name="venus1">Your weight in Venus is approximately:</string>
+    <string name="venus2">The gravitational force of Venus applied in your body is approximately:</string>
+    <string name="calisto_detalhes">
+            <b> Larger Semi-Axis:</b> 1,882.700 km \n
+            <b> Periastro:</b> 1,869,000 km \n
+            <b> Apoastro:</b> 1,897,000 km \n
+            <b> Eccentricity:</b> 0.0074 \n
+            <b> Orbital Period:</b> 16.69 Earth Days \n
+            <b> Average Orbital Speed:</b> 8,204 km/s \n
+            <b> Slope:</b> 0.192° \n
+            <b> Periastro Argument:</b> 52.643° \n
+            <b> Ascending Node Length:</b> 298.848° \n
+            <b> Equatorial Diameter:</b> 4.806 ± 3 km \n
+            <b> Surface Area:</b> 7.30×10^7 km² \n
+            <b> Volume:</b> 5.9×10^10 km³ \n
+            <b> Mass:</b> 1.075938×10^23 kg \n
+            <b> Average Density:</b> 1.8344 ± 0.0034 g/cm³ \n
+            <b> Equatorial Gravity:</b> 1.235 m/s² \n
+            <b> Rotation Period:</b> 16 d 16 h 32 m 11 s \n
+            <b> Escape speed:</b> 2,440 km/s \n
+            <b> Albedo:</b> 0.22 \n
+            <b> Apparent Magnitude: </b>5.65\n
+            <b> Maximum temperature: </b> -108.1 ºC \n
+            <b> Average temperature: </b> -139.1 ºC \n
+            <b> Minimum temperature: </b> -193.2 ºC \n
+    </string>
+    <string name="ceres_detalhes">
+            <b> Diameter:</b> 959.2×932.6 km \n
+            <b> Mass:</b> 9,445×10^20 kg \n
+            <b> Gravity Speed:</b> 0.26 m/s² \n
+            <b> Axea:</b> 3° \n
+            <b> Albedo:</b> 0,113 \n
+            <b> Escape speed:</b> 0.51 km/s \n
+            <b> Absolute Magnitude:</b> 3.34 \n
+            <b> Rotation Period:</b> 0.3781 Days Terrestes \n
+            <b> Maximum temperature: </b> -34 ºC \n
+            <b> Average temperature: </b>  -106 ºC \n
+    </string>
+    <string name="detalhes">
+            <b> More Details: </b>
+    </string>
+    <string name="dione_detalhes">
+            <b> Larger Semi-Axis:</b> 377.396 km \n
+            <b> Eccentricity:</b> 0.0022 \n
+            <b> Orbital Period:</b> 2.74 Earth Days \n
+            <b> Average Orbital Speed:</b> 10.03 km/s \n
+            <b> Slope:</b> 0.019° \n
+            <b> Equatorial Diameter:></b> 1,118 km \n
+            <b> Mass:</b> 1,096×10^21 kg \n
+            <b> Average Density:</b> 1.50 g/cm³ \n
+            <b> Equatorial Gravity:</b> 0.022 m/s² \n
+            <b> Rotation Period:</b> 2 d 17 h 41 min 5 s \n
+            <b> Escape speed:</b> 0.5 km/s \n
+            <b> Albedo:</b> 0.55 \n
+            <b> Average temperature: </b> -186 ºC
+    </string>
+    <string name="encelado_detalhes">
+            <b> Larger Semi-Axis: </b>237,948 km \n
+            <b> Eccentricity: </b>0.0045 \n
+            <b> Orbital Period: </b>1.370218 Earth Days \n
+            <b> Average Orbital Speed: </b>12.64 km/s \n
+            <b> Slope: </b>0.019° \n
+            <b> Equatorial Diameter: </b>504.2 km \n
+            <b> Surface Area: </b>800,000 km² \n
+            <b> Mass: </b>1.08×10^20 kg \n
+            <b> Average Density: </b>1.61 g/cm³ \n
+            <b> Equatorial Gravity: </b>0.117 m/s² \n
+            <b> Rotation Period: </b>1 d 8 h 53 min 7 s \n
+            <b> Escape speed: </b>0.241 km/s \n
+            <b> Albedo: </b>1.375 ± 0.008 \n
+            <b> Maximum temperature: </b> -128 ºC \n
+            <b> Average temperature: </b> -198 ºC \n
+            <b> Minimum temperature: </b> -240.3 ºC \n
+    </string>
+    <string name="europa_detalhes">
+            <b> Larger Semi-Axis: </b>670,900 km \n
+            <b> Periastro: </b>664,862 km \n
+            <b> Supportive: </b>676,938 km \n
+            <b> Orbital Circumference: </b>4,215,389,017 km \n
+            <b> Eccentricity: </b>0.009 \n
+            <b> Orbital Period: </b>3.56 Earth Days \n
+            <b> Synod Period: </b>3.56 Earth Days \n
+            <b> Average Orbital Speed: </b>13,740 km/s \n
+            <b> Slope: </b>0.470° \n
+            <b> Equatorial Diameter: </b>1,569 km \n
+            <b> Surface Area: </b>3.09×10^7 km² \n
+            <b> Volume: </b>1.593×10^10 km³ \n
+            <b> Mass: </b>4.80×10^22 kg \n
+            <b> Average Density: </b>3.01 g/cm³ \n
+            <b> Equatorial Gravity: </b>1,314 m/s² \n
+            <b> Rotation Period: </b>3 d 13 h 13 min 42 s \n
+            <b> Escape speed: </b>2,025 km/s \n
+            <b> Albedo: </b>0.67 ± 0.03 \n
+            <b> Maximum temperature: </b> -148,15 ºC \n
+            <b> Average temperature: </b> -171,15 ºC \n
+            <b> Minimum temperature: </b> -223,15 ºC
+    </string>
+    <string name="eris_detalhes">
+            <b> Diameter: </b>2,400 km ± 100 km \n
+            <b> Mass: </b>1.668×10^22 kg \n
+            <b> Equatorial Gravity: </b>0.8 m / s² \n
+            <b> Axea: </b>44.18694° \n
+            <b> Albedo: </b>0.86 ± 0.07 \n
+            <b> Absolute Magnitude: </b>-1.2 ± 0.01 \n
+            <b> Spin Period: </b>8 Hours \n
+            <b> Maximum temperature: </b> -232 ºC \n
+            <b> Average temperature: </b> -243 ºC \n
+            <b> Minimum temperature: </b> -248 ºC \n
+    </string>
+    <string name="fobos_detalhes">
+            <b> Semi-Spindle Greater: </b>9,376 km \n
+            <b> Periastro: </b>9,234.42 km \n
+            <b> Apoastro: </b>9,517.58 km \n
+            <b> Eccentricity: </b>0.0151 \n
+            <b> Orbital Period: </b>7 h 39 m 12 s \n
+            <b> Average Orbital Speed: </b>2,138 km / s \n
+            <b> Slope: </b>1,093° \n
+            <b> Dimensions: </b>27×22×18 km \n
+            <b> Medium Diameter: </b>11.2667 \n
+            <b> Surface Area: </b>1,548.3 km² \n
+            <b> Mass: </b>1.08×10^16 kg \n
+            <b> Average Density: </b>1,876 g/cm³ \n
+            <b> Surface Gravity: </b>0.0057 m/s² \n
+            <b> Escape speed: </b>11.38 km/s \n
+            <b> Axial Tilt: </b>0° \n
+            <b> Albedo: </b>0.071 ± 0.012 \n
+            <b> Maximum temperature: </b> S.D. ºC \n
+            <b> Average temperature: </b> -40,15 ºC \n
+            <b> Minimum temperature: </b> S.D. ºC
+    </string>
+    <string name="ganimedes_detalhes">
+            <b> Larger Semi-Axis: </b>1,070,400 km \n
+            <b> Periastro: </b>1,069,200 km \n
+            <b> Supportive: </b>1,071,600 km \n
+            <b> Eccentricity: </b>0.0013 \n
+            <b> Orbital Period: </b>7,155 Earth Days \n
+            <b> Average Orbital Speed: </b>10,880 km / s \n
+            <b> Ecliptic Slope: </b>2,214° \n
+            <b> Equatorial Diameter: </b>5,268 km \n
+            <b> Surface Area: </b> 8,72×10^7 km² \n
+            <b> Volume: </b>7.6×10^10 km³ \n
+            <b> Mass: </b> 1.4819×10^23 kg \n
+            <b> Average Density: </b>1,936 g/cm³ \n
+            <b> Surface Gravity: </b> 1,428 m/s² \n
+            <b> Escape speed: </b> 2,741 km/s \n
+            <b> Axial Tilt: </b>0-0,33° \n
+            <b> Albedo: </b>0.43 ± 0.02 \n
+            <b> Apparent Magnitude: </b>4.61 \n
+            <b> Maximum temperature: </b>  -121 ºC \n
+            <b> Average temperature: </b>  -163 ºC \n
+            <b> Minimum temperature: </b>  -203 ºC \n
+    </string>
+    <string name="io_detalhes">
+            <b> Orbital Circumference: </b>0.018 AU \n
+            <b> Eccentricity: </b>0.0041 \n
+            <b> Orbital Period: </b>1.77 Earth Days \n
+            <b> Average Orbital Speed: </b>17,334 km / s \n
+            <b> Slope: </b>0.05° \n
+            <b> Equatorial Diameter: </b>3642.6 km \n
+            <b> Surface Area: </b>41,910,000 km² \n
+            <b> Volume: </b> 2,53×10^10 km³ \n
+            <b> Mass: </b>8.9319×10^22 kg \n
+            <b> Average Density: </b>3.528 g/cm³ \n
+            <b> Equatorial Gravity: </b>1.794 m/s² \n
+            <b> Rotation Period: </b>1 d 18 h 23 min 23 s \n
+            <b> Escape speed: </b>2.6 km/s \n
+            <b> Albedo: </b>0.63 \n
+            <b> Maximum temperature: </b>  S.D ºC \n
+            <b> Average temperature: </b>  -143 ºC \n
+            <b> Minimum temperature: </b> -183 ºC \n
+    </string>
+    <string name="japeto_detalhes">
+            <b> Larger Semi-Axis: </b>3,560,820 km \n
+            <b> Eccentricity: </b>0.0283 \n
+            <b> Orbital Period: </b>79,321 Earth Days \n
+            <b> Average Orbital Speed: </b>3.27 km/s \n
+            <b> Slope: </b>15.47° \n
+            <b> Equatorial Diameter: </b>1.436 km \n
+            <b> Surface Area: </b>6,700,000 km² \n
+            <b> Mass: </b> 1.805635 ± 0.000375)×10^21 kg \n
+            <b> Average Density: </b>1.0830 ± 0.0066 g/cm³ \n
+            <b> Equatorial Gravity: </b>2.186 \n
+            <b> Rotation Period: </b>79 d 7 h 12 m \n
+            <b> Escape speed: </b>0.572 km/s \n
+            <b> Albedo: </b>0.05-0.5 \n
+            <b> Maximum temperature: </b>  -143.1 ºC \n
+            <b> Average temperature: </b> -158.1 ºC \n
+            <b> Minimum temperature: </b> -173.1 ºC \n
+    </string>
+    <string name="jupiter_detalhes">
+            <b> Larger Semi-Axis: </b>778,547,200 km \n
+            <b> Perihelion: </b> 740,573,600 km \n
+            <b> Aphelion: </b>816,520,800 km \n
+            <b> Eccentricity: </b>0.048775 \n
+            <b> Orbital Period: </b>11.86 Earth Years \n
+            <b> Synod Period: </b>398.88 Earth Days \n
+            <b> Average Orbital Speed: </b>13.07 km / s \n
+            <b> Slope With Ecliptic: </b>1.305° \n
+            <b> Slope With the solar equator: </b>6.09° \n
+            <b> Inclination With Invariable Plane: </b>0.32° \n
+            <b> Number of Satellites: </b>67 \n
+            <b> Equatorial Diameter: </b> 42,984 ± 8 km \n
+            <b> Surface Area: </b>6.21796×10^10 km² \n
+            <b> Volume: </b>1.43128×10^15 km³ \n
+            <b> Average Density: </b> 1,326 g / cm³ \n
+            <b> Equatorial Gravity: </b> 24.79 m / s² \n
+            <b> Rotation Period: </b> 9,925 Hours \n
+            <b> Escape speed: </b> 59.5 km / s \n
+            <b> Albedo: </b> 0.333 (Bond) 0.52 (Geometric) \n
+            <b> Maximum Temperature: </b> S.D. \n
+            <b> Average Temperature: </b> -108 ° C \n
+            <b> Minimum Temperature: </b> S.D. ºC \n
+    </string>
+    <string name="lua_detalhes">
+            <b> Larger Semi-Axis: </b> 384,399 km \n
+            <b> Perigee: </b>363,104 km \n
+            <b> Apogee: </b>405,696 km \n
+            <b> Eccentricity: </b>0.0549 \n
+            <b> Orbital Period: </b>27,322 Earth Days \n
+            <b> Synod Period: </b>29.53 Earth Days \n
+            <b> Average Orbital Speed: </b>1.022 km/s \n
+            <b> Slope With Ecliptic: </b> 5.145° \n
+            <b> Tilt with the Equator of the Earth: </b>26.29° \n
+            <b> Equatorial Diameter: </b>3,474.8 km \n
+            <b> Surface Area: </b>3.793x10^7 km² \n
+            <b> Volume: </b>2.1958×10^10 km³ \n
+            <b> Mass: </b>7.349x10^22 kg \n
+            <b> Average Density: </b>3.34 g/cm³ \n
+            <b> Equatorial Gravity: </b>1.622 m/s² \n
+            <b> Rotation Period: </b>27 d 7 h 43 min \n
+            <b> Escape speed: </b> 2.38 km/s \n
+            <b> Albedo:</b> 0.1054 \n
+            <b> Maximum Temperature: </b> 116.9 ºC \n
+            <b> Average Temperature: </b> -53.1 ºC \n
+            <b> Minimum Temperature: </b> -173.1 ºC \n
+    </string>
+    <string name="marte_detalhes">
+            <b> Larger Semi-Axis: </b>227,939,100 km \n
+            <b> Perihelion: </b>206,669,000 km \n
+            <b> Aphelion: </b>249,209,300 km \n
+            <b> Eccentricity: </b>0.093315 \n
+            <b> Orbital Period: </b>686,971 Earth Days \n
+            <b> Synodal Period: </b>779.96 Earth Day \n
+            <b> Average Orbital Velocity: </b>24.077 km/s \n
+            <b> Slope With Ecliptic: </b>1.850° \n
+            <b> Inclination With the Equator of the Sun: </b>5.65° \n
+            <b> Number of Satellites: </b>2 (Phobos and Deimos) \n
+            <b> Equatorial Diameter: </b>6,792.4 km \n
+            <b> Surface Area: </b>144,798,500 km² \n
+            <b> Volume: </b>1,6318×10^11 km³ \n
+            <b> Mass: </b>6.4174×10^23 kg \n
+            <b> Average Density: </b>3.933 g/cm³ \n
+            <b> Equatorial Gravity: </b>3.711 m / s² \n
+            <b> Rotation Period: </b>24 h 37 min 22 s \n
+            <b> Escape speed: </b>5.03 km/s \n
+            <b> Albedo: </b>0.170 \n
+            <b> Maximum Temperature: </b> 35 ºC \n
+            <b> Average Temperature: </b> -63 ºC \n
+            <b> Minimum Temperature: </b> -143 ºC \n
+    </string>
+    <string name="mercurio_detalhes">
+            <b> Larger Semi-Axis: </b>57,909,050 km \n
+            <b> Perihelion: </b>46,001,200 km \n
+            <b> Aphelion: </b>69,816,900 km \n
+            <b> Eccentricity: </b>0.205630 \n
+            <b> Orbital Period: </b>87.969 Earth Days \n
+            <b> Synod Period: </b>115.88 Earth Days \n
+            <b> Average Orbital Speed:</b>47,362 km/s \n
+            <b> Slope With Ecliptic: </b>7.005º \n
+            <b> Inclination With the Equator of the Sun:</b> 3.38º \n
+            <b> Inclination With Invariant Plane: </b>6.34° \n
+            <b> Periastro Argument: </b>29,124º \n
+            <b> Ascending Node Length: </b>48,331 \n
+            <b> Number of Satellites: </b>None \n
+            <b> Equatorial Diameter: </b>4,879.4 km \n
+            <b> Surface Area: </b>7.48×10^7 km² \n
+            <b> Volume: </b>6.083×10^10 km³ \n
+            <b> Mass: </b>3.3011×10^23 kg \n
+            <b> Average Density: </b>5.427 g/cm³ \n
+            <b> Surface Gravity: </b>3.78 m/s² \n
+            <b> Rotation Period: </b>58,646 Earth Days \n
+            <b> Escape speed: </b>4.25 km/s \n
+            <b> Axial Inclination: </b>0.01º \n
+            <b> Albedo: </b>0.142 (geometric) 0.068 (Bond) \n
+            <b> Apparent Magnitude: </b>-2.6 to 5.7 \n
+            <b> Maximum Temperature: </b> 426.85 ºC \n
+            <b> Average Temperature: </b> 166.85 ºC \n
+            <b> Minimum Temperature: </b> -183.15 ºC \n
+    </string>
+    <string name="netuno_detalhes">
+            <b> Larger Semi-Axis: </b>4,503,443,661 km \n
+            <b> Perihelion: </b>4,452,940,833 km \n
+            <b> Aphelion: </b>4,553,946,490 km \n
+            <b> Eccentricity: </b>0.011214269 \n
+            <b> Orbital Period: </b>164.79 Earth Years \n
+            <b> Synodal Period: </b>367.5 Earth Days \n
+            <b> Average Orbital Speed: </b>5.43 km/s \n
+            <b> Ecliptic Slope: </b>1.767975° \n
+            <b> Solar Equator Slope: </b>6.43° \n
+            <b> Flat Tilt Unchanged: </b> 0.72° \n
+            <b> Periastro Argument: </b>265.646853° \n
+            <b> Ascending node length: </b>131.794310° \n
+            <b> Number of Satellites: </b>14 \n
+            <b> Equatorial Diameter: </b>49,528 km \n
+            <b> Surface Area: </b> 7.6183 × 10 ^ 9 km² \n
+            <b> Volume: </b> 6.254 × 10 ^ 13 km³ \n
+            <b> Dough: </b> 1.0243 × 10 ^ 26 kg \n
+            <b> Average Density: </b> 1.638 g / cm³ \n
+            <b> Equatorial Gravity: </b> 11.15 m / s² \n
+            <b> Rotation Period: </b> 16 h 6 min 36 s \n
+            <b> Escape speed: </b> 23.5 km / s \n
+            <b> Axial Inclination: </b> 28.32° \n
+            <b> Albedo: </b> 0.290 (Bond) 0.41 (geom.) \n
+            <b> Apparent Magnitude: </b> 8.02 to 7.78 \n
+            <b> Maximum temperature: </b> S.D.C \n
+            <b> Average Temperature: </b> -201.15°C \n
+            <b> Minimum temperature: </b> -221.3 ºC \n
+    </string>
+    <string name="plutao_detalhes">
+            <b> Larger Semi-Axis: </b>5,906,376,272 km \n
+            <b> Perihelion:</b>4,436,824,613 km \n
+            <b> Aphelion: </b>7,375,927,931 km \n
+            <b> Eccentricity: </b>0.24880766 \n
+            <b> Orbital Period: </b>248.09 Earth Years \n
+            <b> Synodal Period: </b>366.73 Earth Days \n
+            <b> Average Orbital Speed: </b>4,666 km / s \n
+            <b> Ecliptic Slope: </b>17.14175° \n
+            <b> Solar Equator Slope: </b>11.88° \n
+            <b> Periastro Argument: </b>113.76329° \n
+            <b> Ascending node length: </b>110.30347° \n
+            <b> Number of Satellites: </b>5 \n
+            <b> Medium Diameter: </b>2374 ± 8 \n
+            <b> Surface Area: </b>1.665×10^7 km² \n
+            <b> Volume: </b> 6.39×10^9 km³ \n
+            <b> Mass: </b>(1,305 ± 0,007)×10^22 kg \n
+            <b> Average Density: </b>2.03 ± 0.06 g/cm³ \n
+            <b> Equatorial Gravity: </b>0.658 m/s² \n
+            <b> Rotation Period: </b>6 d 9 h 17 m 36 s \n
+            <b> Escape speed: </b> 1,229 km/s \n
+            <b> Axial Tilt: </b>119.591 ± 0.014° \n
+            <b> Albedo: </b>0.49-0.66 \n
+            <b> Average Temperature: </b>-229ºC \n
+            <b> Apparent Magnitude: </b>13.65 to 16.3 \n
+            <b> Absolute Magnitude: </b>-0,7 \n
+            <b> Maximum temperature: </b> -218 ºC \n
+            <b> Average Temperature: </b> -229 ºC \n
+            <b> Minimum temperature: </b> -240 ºC \n
+    </string>
+    <string name="quaoar_detalhes">
+            <b> Amelia: </b> 6.711620×10^9 km \n
+            <b> Perihelion: </b> 6.266487×10^9 km \n
+            <b> Diameter: </b>1.250 km \n
+            <b> Mass: </b>1,000 kg/m³ \n
+            <b> Surface Gravity: </b>0.17 m/s² \n
+            <b> Rotation Period: </b> 0.736617 Earth Days \n
+            <b> Absolute Magnitude:</b> 2,6 \n
+            <b> Orbital Speed: </b>4,52 km/s \n
+            <b> Period of revolution: </b>285.69 Earth Years \n
+            <b> Temperature: </b>~59 K
+    </string>
+    <string name="reia_detalhes">
+            <b> Larger Semi-Axis: </b>527,108 km \n
+            <b> Eccentricity: </b>0.0012583 \n
+            <b> Orbital Period: </b>4.52 Earth Days \n
+            <b> Average Orbital Speed: </b>8.49 km/s \n
+            <b> Slope: </b> 0.345° \n
+            <b> Equatorial Diameter: </b>1,528 km \n
+            <b> Surface Area: </b>7,337,000 km² \n
+            <b> Mass: </b> 2.306518×10^21 kg \n
+            <b> Average Density: </b>1.2333 g/cm³ \n
+            <b> Equatorial Gravity: </b>2,588 m/s² \n
+            <b> Rotation Period: </b>4 d 12 h 26 m 14 s \n
+            <b> Escape speed: </b>0.635 km/s \n
+            <b> Albedo: </b>0.949 ± 0.003 \n
+            <b> Maximum temperature: </b> -174.1 ºC \n
+            <b> Average Temperature: </b> -197.2 ºC \n
+            <b> Minimum temperature: </b> -220.2 ºC \n
+    </string>
+    <string name="saturno_detalhes">
+            <b> Larger Semi-Axis: </b>1,433,449,370 km \n
+            <b> Perihelion: </b>1,353,572,956 km \n
+            <b> Aphelion: </b>1,513,325,783 km \n
+            <b> Eccentricity: </b>0.055723219 \n
+            <b> Orbital Period: </b>29.4571 Earth Years \n
+            <b> Synod Period: </b>378.09 Earth Days \n
+            <b> Average Orbital Speed: </b>9.69 km/s \n
+            <b> Ecliptic Slope: </b>2.485240° \n
+            <b> Solar Equator Slope: </b>5.51° \n
+            <b> Plane Slope Invariant: </b>0.93° \n
+            <b> Ascending node length: </b>113.642811 \n
+            <b> Number of Satellites: </b>62 \n
+            <b> Equatorial Diameter: </b>120,536 km \n
+            <b> Surface Area: </b>4.27×10^10 km² \n
+            <b> Volume: </b>8.2713×10^14 km³ \n
+            <b> Mass: </b>5,6846×10^26 kg \n
+            <b> Average Density: </b>0.687 g/cm³ \n
+            <b> Equatorial Gravity: </b>10.44 m/s² \n
+            <b> Rotation Period: </b> 10h 34min \n
+            <b> Escape speed: </b>35.5 km/s \n
+            <b> Axial Inclination: </b>26,73° \n
+            <b> Albedo: </b>0.342 (Bond) 0.47 (geom.) \n
+            <b> Apparent Magnitude: </b>1.47 to -0.24 \n
+            <b> Maximum temperature: </b> S.D.ºC \n
+            <b> Average Temperature: </b> -139 ºC \n
+            <b> Minimum temperature: </b> S.D.ºC \n
+    </string>
+    <string name="sol_detalhes">
+            <b> Average Distance to Earth: </b>1.496×10^11 km \n
+            <b> Apparent Magnitude: </b>-26.74 \n
+            <b> Absolute Magnitude: </b>4.85 \n
+            <b> Star rating: </b>G2V \n
+            <b> Metalicity: </b>Z = 0.0177 \n
+            <b> Angular Diameter: </b>"31,6 '- 32,7'" \n
+            <b> Adjective: </b>Solar \n
+            <b> Average Distance from the Center of the Khaki: </b>26,000 Light Years \n
+            <b> Galactic Orbital Period: </b>2.50×10^8 Earth Years \n
+            <b> Speed: </b>~2.20×10^5 m/s \n
+            <b> Orbit Around the Center of the Galaxy: </b>~2×10^4 m/s \n
+            <b> Medium Diameter:</b>1.392×10^9 km \n
+            <b> Equatorial ray: </b>6.963×10^8 km \n
+            <b> Equatorial Circumference: </b>4.379×10^9 km \n
+            <b> Scattering: </b>9×10^-6 \n
+            <b> Surface Area: </b>6.0877×10^12 km² \n
+            <b> Volume: </b>1.412×10^18 km³ \n
+            <b> Mass: </b>1.9891×10^30 kg \n
+            <b> Average density: </b>1.408×10^3 kg/m³ \n
+            <b> Core Density: </b>1.5×10^5 kg/m³ \n
+            <b> Photosphere Base Density: </b>2×10^-4 kg/m³ \n
+            <b> Chromosphere Base: </b> 5×10^-6 kg/m³ \n
+            <b> Solar Crown: </b>1×10^-12 kg/m³ \n
+            <b> Surface Gravity: </b>274.0 m/s² \n
+            <b> Escape speed: </b>617.7 km/s \n
+            <b> Surface Temperature: </b>5.778 K \n
+            <b> Solar Crown Temperature: </b>~5×10^6 K \n
+            <b> Core Temperature: </b>~15.7×10^6 K \n
+            <b> Luminosity: </b>3.846×10^26 Whatts \n
+            <b> Intensity: </b>2.009×10^7 W · m-2 · sr-1 \n
+            <b> Obliquity for the Ecliptic: </b>7.25° \n
+            <b> Obliquity for the Galactic Plane:</b> 67.23° \n
+            <b> Latitude Rotation Period: </b>25.38 Earth Days \n
+            <b> Period of Rotation in Ecuador: </b>25.05 Earth Days \n
+            <b> Rotation Period in the Poles: </b>34.3 Earth Days \n
+            <b> Speed ​​of Rotation Ecuador:</b> 7.189×10^3 km/h \n
+    </string>
+    <string name="terra_detalhes">
+            <b> Larger Semi-Axis: </b>149,598,261 km \n
+            <b> Perihelion: </b>147,098,290 km \n
+            <b> Aphelion: </b>152,098,232 km \n
+            <b> Eccentricity: </b>0.01671123 \n
+            <b> Orbital Period: </b>365,2563 Earth Days \n
+            <b> Orbital Average Speed: </b>29.78 km/s \n
+            <b> Inclination to the Equator of the Sun: </b>7.155° \n
+            <b> Inclination to Plane Invariable: </b>1.57869° \n
+            <b> Periastro Argument: </b>114.20783° \n
+            <b> Ascending Node Length: </b>348.73936° \n
+            <b> Number of Satellites: </b>1 (Moon) \n
+            <b> Equatorial Diameter: </b>12,756.2 km \n
+            <b> Surface Area: </b>510,072,000 km² \n
+            <b> Volume: </b>1.08321×10^12 km³ \n
+            <b> Mass: </b>5.9736×10^24 kg \n
+            <b> Average Density: </b>5.515 g/cm³ \n
+            <b> Equatorial Gravity: </b> 9.780 m/s² \n
+            <b> Rotation Period: </b>23h 56m 4,100s \n
+            <b> Escape speed: </b>11.186 km/s \n
+            <b> Axial Tilt: </b>23° \n
+            <b> Albedo: </b>0.367 (geometric) 0.306 (Bond) \n
+            <b> Maximum temperature: </b> 57.8ºC \n
+            <b> Average Temperature: </b> 14 ºC \n
+            <b> Minimum temperature: </b> -93.2 ºC \n
+    </string>
+    <string name="tetis_detalhes">
+            <b> Larger Semi-Axis: </b>294,619 km \n
+            <b> Eccentricity: </b>0.00 \n
+            <b> Orbital Period: </b>1.888 Earth Days \n
+            <b> Slope: </b>1.12° \n
+            <b> Main Diameter: </b>1,059.8 km \n
+            <b> Mass: </b>6.18×10^20 kg \n
+            <b> Average Density: </b>0.99 g/cm³ \n
+            <b> Surface Gravity: </b> 0.16 m/s² \n
+            <b> Rotation Period: </b> 1.888 Earth Days \n
+            <b> Axial Tilt: </b> 0.00° \n
+            <b> Average Temperature: </b> -187.15 ºC \n
+    </string>
+    <string name="tita_detalhes">
+            <b> Larger Semi-Axis: </b>1,221,870 km \n
+            <b> Periastro: </b>1,186,680 km \n
+            <b> Supportive: </b>1,257,060 km \n
+            <b> Eccentricity: </b>0.0288 \n
+            <b> Orbital Period: </b>15,945 Earth Days \n
+            <b> Average Orbital Speed: </b>5.57 km/s \n
+            <b> Slope:</b> 0.34854° \n
+            <b> Equatorial Diameter: </b>5,151 km \n
+            <b> Surface Area: </b>8.3×10^7 km² \n
+            <b> Volume: </b>7.16×10^10 km³ \n
+            <b> Mass: </b>(1,3452 ± 0,0002)×10^23 kg \n
+            <b> Average Density: </b> 1.8798 ± 0.0044 g/cm³ \n
+            <b> Surface Gravity: </b>1.352 m/s² \n
+            <b> Escape speed: </b>2.639 km/s \n
+            <b> Axial Tilt: </b>Zero \n
+            <b> Albedo: </b>0.22 \n
+            <b> Average Temperature: </b>-179.5ºC \n
+            <b> Apparent Magnitude: </b> 8.2 to 9 \n
+            <b> Atmospheric Pressure: </b>146.7 kPa \n
+            <b> Average Temperature: </b> -179.5 ºC \n
+</string>
+    <string name="urano_detalhes">
+            <b> Larger Semi-Axis: </b>2,876,679,082 km \n
+            <b> Perihelion: </b> 2,748,938,461 km \n
+            <b> Aphelion: </b> 3,004,419,704 km \n
+            <b> Eccentricity: </b>0.044405586 \n
+            <b> Orbital Period: </b>84.323326 Earth Years \n
+            <b> Synod Period: </b>369.66 Earth Days \n
+            <b> Orbital Average Speed: </b>6.81 km/s \n
+            <b> Ecliptic Slope: </b>0.772556° \n
+            <b> Solar Ecuador: </b>6.48° \n
+            <b> Plane Invariable: </b>1.02° \n
+            <b> Periastro Argument: </b>96.541318° \n
+            <b> Ascending Node Length: </b>73.989821° \n
+            <b> Number of Satellites: </b>27 \n
+            <b> Equatorial Diameter: </b>51,118 ± 8 km \n
+            <b> Surface Area: </b> 8.1156×10^9 km² \n
+            <b> Volume: </b>6.833×10^13 km³ \n
+            <b> Mass: </b>(8.6810 ± 0.0013)×10^25 kg \n
+            <b> Average Density:</b> 1.27 g/cm³ \n
+            <b> Equatorial Gravity: </b>8.69 m/s² \n
+            <b> Rotation Period: </b>17 h 14 min 24 s \n
+            <b> Escape speed: </b>21.3 km/s \n
+            <b> Axial Tilt: </b> 97.77° \n
+            <b> Albedo: </b>0.300 (Bond) 0.51 (geometric) \n
+            <b> Apparent Magnitude: </b>5.9 to 5.32 \n
+            <b> Maximum temperature: </b> -216 ºC \n
+            <b> Average Temperature: </b> -220 ºC \n
+            <b> Minimum temperature: </b> -224 ºC \n
+   </string>
+    <string name="venus_detalhes">
+            <b> Larger Semi-Axis: </b>108,208,930 km \n
+            <b> Perihelion: </b>107,476,000 km \n
+            <b> Aphelion: </b>108,942,000 km \n
+            <b> Eccentricity: </b>0.006772 \n
+            <b> Orbital Period: </b>224,701 Earth Days \n
+            <b> Synod Period: </b>583.92 Earth Days \n
+            <b> Average Orbital Speed: </b>35.02 km/s \n
+            <b> Slope With the ecliptic: </b>3.39471º \n
+            <b> Slope with the Equator of the Sun: </b>3.86 \n
+            <b> Slope with Flat Unvarying: </b>2.19° \n
+            <b> Periastro Argument: </b>54.85229º \n
+            <b> Ascending Node Length: </b>76.68069º \n
+            <b> Number of Satellites: </b>None \n
+            <b> Medium Diameter: </b>12,103.6 km \n
+            <b> Surface Area: </b>4.60×10^8 km² \n
+            <b> Volume: </b>9.2843×10^10 km³ \n
+            <b> Mass: </b>4.8685×10^24 kg \n
+            <b> Average Density: </b>5.243 g/cm³ \n
+            <b> Surface Gravity: </b>8.87 m/s² \n
+            <b> Rotation Period: </b>243,021 Earth Days \n
+            <b> Escape speed: </b>10.36 km/s \n
+            <b> Axial Inclination: </b> 177.36º \n
+            <b> Albedo: </b>0,67 (geometric) 0,90 (Bond) \n
+            <b> Average Temperature: </b>461ºC \n
+            <b> Apparent Magnitude: </b>-4.6 \n
+            <b> Average Temperature: </b>  461 ºC \n
+</string>
+    <string name="como_se_calcula"><b>The weight? </b>\n\nThe weight (P) is a vector quantity since it has intensity, direction and direction, being the product of the mass of a body and the acceleration of gravity exerted on it. Thus, unlike the mass, the weight is a variable value. In the International System (SI), the standard unit of Weight is represented in Newton (N). From this, to calculate the weight of the bodies, the following expression is used: \n\nP = m.g \n\nWhere, \nP: weight \nm: mass \ng: acceleration of gravity \n\nThus, if the gravity value (g) on ​​the surface of planet Earth is Of approximately 9,780 m / s², what is the weight of a 60kg mass body? \n\nP = m.g \nP = 60 x 9,780 \nP = 586,8 N \n\nThus the weight of a person of mass 60 kg on planet earth is 586.8 Newton. Therefore, if the gravity value (g) on ​​the surface of the planet Mars is approximately 3,711 m / s², what is the weight of a 60kg mass body?\n\nP = m.g\nP = 60 x 3,711 \nP = 222.66 N \n\nThus the weight of a person with mass 60 kg at mars is 222.66 Newton.\n\nNow, just convert the mass of the body of the earth into mass of the body at  mars\nM= p / g\n\nWhere, \nM: mass \np: weight \ng: acceleration of gravity \n\n\nM = p / g \nM = 222,66 / 9,780 \nM = 22.766 kg \n\nIn short: if you have a mass of 60 kg on earth you will have a mass of 22.77 kg on Mars approximately \n\n<b>The gravitational force applied on your body? </b>\n\nThe same formula is used, knowing that you have a mass of 22.77 kg on Mars and that the acceleration of Mars is 3,711 m / s²\n \nP = m.g \nP = 22,77 x 3,711 \nP = 84,49 n\n\nYou will have the Weight of 84.49 Newton on Mars.</string>
+    <string name="como_calculamos">How do we calculate?</string>
+    <string name="compartilhar">To share</string>
+    <string name="navigation_drawer_close">Fechar a gaveta de navegação</string>
+    <string name="navigation_drawer_open">Abrir a gaveta de navegação</string>
+    <string name="outros">Others</string>
+    <string name="qualificar_no_play_store">Qualify in the Play Store</string>
+    <string name="sobre">About</string>
+    <string name="title_activity_principal">My weight on another planet</string>
+    <string name="title_activity_tab">My weight on another planet</string>
+    <string name="calisto_nsat_lite_de_j_piter">Callisto\nJupiter Satellite</string>
+    <string name="ceres_nplaneta_an_o">Ceres\nPlanet Dwarf</string>
+    <string name="dione_nsat_lite_de_saturno">Dione\nSaturn Satellite</string>
+    <string name="enc_lado_nsat_lite_de_saturno">Enceladus\nSaturn Satellite</string>
+    <string name="europa_nsat_lite_de_j_piter">Europe\nJupiter Satellite</string>
+    <string name="fobos_nsat_lite_de_marte">Phobos\nSatellite Mars</string>
+    <string name="gan_medes_nsat_lite_de_saturno">Ganymede\nJupiter Satellite</string>
+    <string name="io_nsat_lite_de_j_piter">Io\nJupiter Satellite</string>
+    <string name="j_peto_nsat_lite_de_saturno">Ipeto\nSaturn Satellite</string>
+    <string name="j_piter_nplaneta">Jupiter - Planet</string>
+    <string name="lua_nsat_lite_da_terra">Moon\nSatellite Earth</string>
+    <string name="marte_nplaneta">Mars - Planet</string>
+    <string name="merc_rio_nplaneta">Mercury - Planet</string>
+    <string name="netuno_nplaneta">Neptune - Planet</string>
+    <string name="plut_o_nplaneta_an_o">Pluto\nPlanet Dwarf</string>
+    <string name="quaoar_nplaneta_an_o">Quaoar\nPlanet Dwarf</string>
+    <string name="reia_nsat_lite_de_saturno">Reia\nSaturn Satellite</string>
+    <string name="ris_nplaneta_an_o">Eris\nPlanet Dwarf</string>
+    <string name="satuno_nplaneta">Saturn - Planet</string>
+    <string name="sol_nestrela">Sun - Star</string>
+    <string name="t_tis_nsat_lite_de_saturno">Tetis\nSaturn Satellite</string>
+    <string name="terra_nplaneta">Earth - Planet</string>
+    <string name="tit_nsat_lite_de_saturno">Titan\nSaturn Satellite</string>
+    <string name="urano_nplaneta">Uranus - Planet</string>
+    <string name="v_nus_nplaneta">Venus - Planet</string>
+    <string name="mensag_sobre">Version 1.4.7 of My weight on another planet.\n\nDeveloped by Edimilson Borges\nCopyright© 2017 – 2019\nAll rights reserved.</string>
+    <string name="versao">Version: 1.4.7</string>
+    <string name="alertsair">Do you want to quit the App?</string>
+    <string name="alertbutsim">YES</string>
+    <string name="alertbutnao">NO</string>
+    <string name="coloque_seu_peso_aqui">Enter your weight in KG</string>
+    <string name="digiteseupeso">Enter your weight and click calculate</string>
+    <string name="mess1Atualizacao">The version</string>
+    <string name="mess2Atualizacao">was found, would you like to upgrade to this new version now?</string>
+    <string name="titleAtualizacao">New update found.</string>
+</resources>

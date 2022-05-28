@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content_principal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/fundo"
+    tools:context="br.edimilsonborges.seupesoemoutroplaneta.PrincipalActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:cardElevation="10dp"
+                app:cardBackgroundColor="@color/colorPrimaryLight"
+                app:cardPreventCornerOverlap="false">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="15dp"
+                    android:layout_gravity="center">
+
+
+                    <TextView
+                        android:text="@string/digiteseupeso"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:id="@+id/textView2"
+                        android:layout_weight="1"
+                        android:textColor="?attr/colorPrimaryDark"
+                        android:textSize="12sp"
+                        android:textStyle="normal|bold|italic" />
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:ems="10"
+                        android:id="@+id/editTextPesoAtual"
+                        android:layout_weight="1"
+                        android:hint="@string/coloque_seu_peso_aqui"
+                        android:layout_gravity="center"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:background="@drawable/estiloedittext"
+                        android:layout_margin="15dp"
+                        android:padding="8dp"
+                        android:selectAllOnFocus="false"
+                        android:inputType="numberDecimal"
+                        android:textStyle="normal|italic" />
+
+                    <Button
+                        android:text="@string/btncalcular"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:id="@+id/btnCalcular"
+                        android:background="@drawable/estilobutao"
+                        android:textColor="@color/colorPrimaryLight"
+                        android:layout_weight="1"
+                        android:textSize="24sp"
+                        android:onClick="calcular" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_Principal"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            android:layout_weight="1"
+            app:title="@string/app_name"
+            android:elevation="0dp">
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+

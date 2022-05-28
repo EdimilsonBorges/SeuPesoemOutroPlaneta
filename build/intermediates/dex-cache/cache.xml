@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c1c44672010b6847f3744ec3702624d8d16c240">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.1.1_9b4e839e97722413cb4b087261db3d0bedd0ab75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_1f984925323f08e1c20be9bf5a036acb79d2ed30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_01b50d41f50a118bf15b45f9ae9def9bc7d365d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.1_e1b72a29633668fce3d070dcb4b8d9d2e31f7383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_a5fe6f3654b155feaf5b127c071f48c98f0471cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_649c45ac1b78bd3e3f3773f50d255ec38ac2b5ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04fc783b0c2bfcb433e6f5c2f93622d99360183b">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-gridlayout-v7-26.0.1_ac610da568f7dc6ec756dd88f55fe442ce7710d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-26.0.1_58e79ddc623e75d26d72fb56fefee787b9058153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-26.0.1_331947fafb277970cd0182c79a0d438018bc066c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\support-annotations-26.0.1_4a8afc64ecd96d756e461135e8b79fe5d65688eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-26.0.1_25ae2201e766963af1a52963cd77e470e1dbc4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.1_60208c94ceb935fdc48da7590f69142f13eacbed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-26.0.1_34bc900bda739ef39390b1f84f8e4ed5d55d065b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_f3caa0fde2a34579cd827734e634531501c35b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.1_b18867e1c745fa94644aec704ff2c729e5b5b885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.1_f3ba86bd8b3ef31bca3bdae4bc82e711d4d154ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.1_889c64fa9fb411940938e80c1faaab1901038726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.1_e23d6d199172b502caa70ba84648e81dc5538b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_13c5de56f8ba7466df6a4f60b00271d196625191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-transition-26.0.1_cd4f49897ab942ec05d7dddc41b944a03d0570ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-26.0.1_b1c5d90d2abc5f445436f8ab6dd2a4f20321141c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_3cd81cdc8e4a01a1b179c3075f9b35b9f0715a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\exploded-aar\com.android.support\design\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="C:\Users\Windows\AndroidStudioProjects\SeuPesoemOutroPlaneta\app\build\intermediates\pre-dexed\release\com.android.support-design-26.0.1_dde5a7e3e709908c936ba511dbb1559a58ee87e1.jar" />
+    </item>
+
+</items>
